@@ -43,6 +43,7 @@ try:
 
     driver.find_element(By.ID, "submit").click()
     print("Submit clicked")
+    print("Test executed successfully")
 
     time.sleep(2)
 
